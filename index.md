@@ -4,6 +4,6 @@
 
 
 <p align="center">
-  <b style="color:black;">GETTING STARTED:</b><br>
+  <b style="color:black;">GETTING STARTED</b><br>
   <br><br>
 </p>
