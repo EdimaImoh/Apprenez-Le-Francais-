@@ -6,10 +6,10 @@
 
 
 
-<p align="center">
+<h2 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
   <br><br>
-</p>
+</h2>
 
 <h3 align="left">
   <b style="color:grey;">GETTING STARTED</b><br>
