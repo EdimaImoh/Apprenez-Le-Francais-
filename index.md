@@ -6,7 +6,12 @@
 
 
 
-<p align="center">
+<h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
   <br><br>
-</p>
+</h1>
+
+<h1 align="left">
+  <b style="color:grey;">GETTING STARTED</b><br>
+  <br><br>
+</h1>
