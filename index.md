@@ -8,6 +8,7 @@
 
 <h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
+</h1>
 <dl>
   <dt>GRAMMAR</dt>
   <dd> this page allows you to practice advanced grammar. </dd>
