@@ -10,8 +10,8 @@
   <b style="color:grey;">GETTING STARTED</b><br>
 </h1>
 <h2 width="100">
-  GRAMMAR           
-  VOCABULARY       
+  GRAMMAR -----           
+  VOCABULARY -----       
   TRANSLATION       
 </h2>
 
