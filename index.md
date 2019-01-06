@@ -11,5 +11,5 @@
   <br><br>
 </h2>
 
-<p GRAMMAR width="100"</p> <p VOCABULARY width="100"</p> <p TRANLASTION width="100"</p> 
+<p GRAMMAR width="10"</p> <p VOCABULARY width="10"</p> <p TRANLASTION width="10"</p> 
 
