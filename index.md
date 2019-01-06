@@ -16,8 +16,8 @@
 </h2>
 <p> visit the grammar page to practice advanced grammar such as imparfait, plus-que-parfait and subjonctif</p> <p> hello </p>
 
-</style>
-<table class="no-border">
+
+<table border:1px white;>
 <tr><th>GRAMMAR</th><th>VOCABULARY</th><th>TRANSLATION</th></tr>
   <tr><td>HELLO</td><td>je suis</td><td>je fais</td></tr>
   <tr><td>tu as</td><td>tu es</td><td>tu fais</td></tr>
