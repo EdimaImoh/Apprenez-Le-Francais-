@@ -14,5 +14,5 @@
   VOCABULARY -----       
   TRANSLATION       
 </h2>
-<p visit the grammar page to practice advanced grammar such as imparfait, plus-que-parfait and subjonctif </p> 
+<p visit the grammar page to practice advanced grammar such as imparfait, plus-que-parfait and subjonctif</p> 
 
