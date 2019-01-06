@@ -10,5 +10,5 @@
   <b style="color:grey;">GETTING STARTED</b><br>
   <br><br>
 </h2>
-<p> GRAMMAR width="100" </p> <p> VOCABULARY width="100" </p> <p> TRANLASTION width="100" </p> 
+<p GRAMMAR width="100"</p> <p VOCABULARY width="100"</p> <p TRANLASTION width="100"</p> 
 
