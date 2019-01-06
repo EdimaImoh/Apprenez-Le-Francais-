@@ -11,7 +11,7 @@
   <br><br>
 </h2>
 
-<p float="left">
+<p>
   GRAMMAR
   VOCABULARY  
   TRANSLATION 
