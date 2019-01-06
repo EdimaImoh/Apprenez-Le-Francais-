@@ -15,7 +15,7 @@
 
 
 
-dl>
+<dl>
   <dt>GRAMMAR</dt>
   <dd> this page allows you to practice advanced grammar. </dd>
   <dt>TRANSLATION</dt>
@@ -27,7 +27,7 @@ dl>
 <h1 align="center">
   <b style="color:BLUE;">TOPICS</b><br>
 </h1>
-dl>
+<dl>
   <dt>SPORT</dt>
   <dd> revise the different types of sport and key words. </dd>
   <dt>SOCIAL MEDIA</dt>
