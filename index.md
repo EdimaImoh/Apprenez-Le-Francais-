@@ -12,8 +12,8 @@
 </h2>
 
 <p 
-GRAMMAR width="10" 
-VOCABULARY width="10" 
-TRANLASTION width="10
+GRAMMAR  
+VOCABULARY 
+TRANLASTION 
 </p> 
 
