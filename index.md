@@ -12,8 +12,8 @@
 </h2>
 
 <p float="left">
-  grammar />
-  vocab /> 
-  trans />
+  GRAMMAR />
+  VOCABULARY /> 
+  TRANSLATION />
 </p>
 
