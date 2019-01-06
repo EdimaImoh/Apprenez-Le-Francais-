@@ -11,9 +11,9 @@
   <br><br>
 </h2>
 
-<p 
-GRAMMAR  
-VOCABULARY 
-TRANLASTION 
-</p> 
+<p float="left">
+  grammar />
+  vocab /> 
+  trans />
+</p>
 
