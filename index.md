@@ -32,7 +32,7 @@
   <dd>learn the dangers of not protecting the environment and ways to reduce our waste.</dd>
 </dl>
 
-<img src="https://en.wikipedia.org/wiki/Flag_of_France#/media/File:Flag_of_France.svg" alt="French flag" >
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French flag" >
 <h1 align="center">
   <b style="color:orange;">BON CHANCE!</b><br>
 </h1>
