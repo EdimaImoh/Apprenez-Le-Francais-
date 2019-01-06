@@ -32,6 +32,9 @@
   <dd>learn the dangers of not protecting the environment and ways to reduce our waste.</dd>
 </dl>
 
+
+
+
 <img style="width:60%; border:1px solid orange; margin-left:15%;" 
 src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French flag" >
 <h1 align="center">
