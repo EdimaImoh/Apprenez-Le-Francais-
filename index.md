@@ -13,7 +13,7 @@
 
 <p 
 GRAMMAR width="10" 
-<p VOCABULARY width="10" 
-<p TRANLASTION width="10
+VOCABULARY width="10" 
+TRANLASTION width="10
 </p> 
 
