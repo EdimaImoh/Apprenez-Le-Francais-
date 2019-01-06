@@ -8,13 +8,6 @@
 
 <h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
-</h1>
-<h3> VISIT THE GRAMMAR PAGE TO PRACTICE ADVANCED GRAMMAR!</h2>
-<h3> VISIT THE TRANSLATION PAGE TO PRACTICE TRANSLATING FROM ENGLISH TO FRENCH AND FRENCH TO ENGLISH!</h3>
-<h3> VISIT THE VOCABULARY PAGE TO LEARN NEW AND KEY VOCAUBLARY!</h3>
-
-
-
 <dl>
   <dt>GRAMMAR</dt>
   <dd> this page allows you to practice advanced grammar. </dd>
