@@ -6,13 +6,13 @@
 
 
 
-<h2 align="center">
+<h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
-</h2>
-<p>
+</h1>
+<h2>
   GRAMMAR 
   VOCABULARY 
   TRANSLATION 
-</p>
+</h2>
 
 
