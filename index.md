@@ -9,11 +9,12 @@
 <h2 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
   <br><br>
-</h2>
-
-<p>
+  <p>
   GRAMMAR
   VOCABULARY  
   TRANSLATION 
 </p>
+</h2>
+
+
 
