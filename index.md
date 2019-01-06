@@ -16,3 +16,12 @@
 </h2>
 <p> visit the grammar page to practice advanced grammar such as imparfait, plus-que-parfait and subjonctif</p> <p> hello </p>
 
+</style>
+<table class="no-border">
+<tr><th>GRAMMAR</th><th>VOCABULARY</th><th>TRANSLATION</th></tr>
+  <tr><td>HELLO</td><td>je suis</td><td>je fais</td></tr>
+  <tr><td>tu as</td><td>tu es</td><td>tu fais</td></tr>
+  <tr><td>il/elle a</td><td>il/elle est</td><td>il/elle fait</td></tr>
+  <tr><td>nous avons</td><td>nous sommes</td><td>nous faisons</td></tr>
+</table>
+
