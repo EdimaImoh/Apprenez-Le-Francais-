@@ -9,19 +9,9 @@
 <h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
 </h1>
-<h2 width="100">
-  GRAMMAR -----           
-  VOCABULARY -----       
-  TRANSLATION       
-</h2>
-<p> visit the grammar page to practice advanced grammar such as imparfait, plus-que-parfait and subjonctif</p> <p> hello </p>
-
-
-<table>
-<tr><th>GRAMMAR</th><th>VOCABULARY</th><th>TRANSLATION</th></tr>
-  <tr><td>practice advanced grammar! </td><td>learn some key words!</td><td>practoce translating skills!</td></tr>
-  <tr><td>tu as</td><td>tu es</td><td>tu fais</td></tr>
-  <tr><td>il/elle a</td><td>il/elle est</td><td>il/elle fait</td></tr>
-  <tr><td>nous avons</td><td>nous sommes</td><td>nous faisons</td></tr>
-</table>
+<h2> VISIT THE GRAMMAR PAGE TO PRACTICE ADVANCED GRAMMAR!</h2>
+<h2> VISIT THE TRANSLATION PAGE TO PRACTICE TRANSLATING FROM ENGLISH TO FRENCH AND FRENCH TO ENGLISH!</h2>
+<h2> VISIT THE VOCABULARY PAGE TO LEARN NEW AND KEY VOCAUBLARY!</h2>
+  
+  
 
