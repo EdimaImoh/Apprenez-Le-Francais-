@@ -1,3 +1,3 @@
 <h1 align="center">
- THIS PAGE IS ALL ABOUT IMPROVING YOUR GRAMMAR
+  <b style="color:turquoise;">THIS PAGE IS ALL ABOUT IMPROVING YOUR GRAMMAR</b><br>
 </h1>
