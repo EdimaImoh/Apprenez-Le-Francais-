@@ -9,10 +9,10 @@
 <h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
 </h1>
-<h2>
-  GRAMMAR 
-  VOCABULARY 
-  TRANSLATION 
+<h2 width="100">
+  GRAMMAR - for tests
+  VOCABULARY - for key vocab
+  TRANSLATION - practive translation
 </h2>
 
 
