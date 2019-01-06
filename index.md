@@ -38,7 +38,7 @@
 
 
 
-<img style="width:60%; border:1px solid orange; margin-left:25%;" 
+<img style="width:60%; border:1px solid orange; margin-left:20%;" 
 src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French flag" >
 <h1 align="center">
   <b style="color:orange;">BON CHANCE!</b><br>
