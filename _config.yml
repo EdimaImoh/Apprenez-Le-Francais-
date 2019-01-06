@@ -2,11 +2,11 @@ theme: jekyll-theme-cayman
 title: French
 description: Fun ways to improve your French!
 github:
- page2: home.html
- page3: grammar.html 
- page4: vocaublary.html
- page5: sports.html
- page6: social-media.html
- page7: holidays.html
- page8: environment.html
- page9: translation.html
+ page1: home.html
+ page2: grammar.html 
+ page3: vocaublary.html
+ page4: sports.html
+ page5: social-media.html
+ page6: holidays.html
+ page7: environment.html
+ page8: translation.html
