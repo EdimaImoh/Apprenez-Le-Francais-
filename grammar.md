@@ -6,7 +6,7 @@
 <p lang="fr" style=colour:dark blue;">l'imparfait tres jolie
 
 
-<a lang="fr"; style=colour:dark blue"; href="https://www.youtube.com/watch?time_continue=2&v=U5KXfaeJJ_4">l'imparfait</a>
+<a href="https://www.youtube.com/watch?time_continue=2&v=U5KXfaeJJ_4">l'imparfait</a>
 
 
 
