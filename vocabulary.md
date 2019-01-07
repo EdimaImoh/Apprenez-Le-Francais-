@@ -6,14 +6,15 @@
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
  <table>
-  <tr><th>à en juger par</th><th>judging by</th></tr>
+  <tr><th>FRANÇAISE</th><th>ANGLAISEt</th></tr>
+  <tr><td>à en juger par</td><td>judging by</td></tr>
   <tr><td>cerner le problème essentiel</td><td>to define the main problem</td></tr>
   <tr><td>des conséquences d'une grande portée</td><td>far-reaching consequences</td></tr>
   <tr><td>un enjeu capital</td><td>a prime issue</td></tr>
   <tr><td>l'épineuse question</td><td>the thorny question</td></tr>
   <tr><td>expliquer le pourquoi de</td><td>to explain the reasons for</td></tr>
   <tr><td>mettre qqch sur le compte de</td><td>to attribute sth to</td></tr>
-  <tr><th>on peut constater que</th><th>we can see that</th></tr>
+  <tr><td>on peut constater que</td><td>we can see that</td></tr>
   <tr><td>partons du principe que</td><td>let us take a basic principle that</td></tr>
   <tr><td>peser lourd</td><td>to weigh heavily</td></tr>
   <tr><td>plusieurs points forts se dégagent</td><td>several important points emerge</td></tr>
