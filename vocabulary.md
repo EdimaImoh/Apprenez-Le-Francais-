@@ -1,1 +1,3 @@
-<h1> KEY VOCABULARY </h1>
+<h1 align="center">
+  <b style="color:red;">KEY VOCABULARY:</b><br>
+</h1>
