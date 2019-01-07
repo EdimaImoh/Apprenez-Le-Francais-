@@ -6,7 +6,7 @@
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
  <table>
-  <tr><th>FRANÇAISE</th><th>ANGLAISEt</th></tr>
+  <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
   <tr><td>cerner le problème essentiel</td><td>to define the main problem</td></tr>
   <tr><td>des conséquences d'une grande portée</td><td>far-reaching consequences</td></tr>
