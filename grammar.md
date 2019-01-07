@@ -3,7 +3,4 @@
 </h1>
 
 <h2 style="color:black;"> BRUSH UP ON:</h2> 
-<p lang="fr">l'imparfait tres jolie</p>
-<p lang="fr">passe compose</p>
-<p lang="fr">plus-que-parfait</p>
-<p lang="fr">subjonctif</p>
+<p lang="fr">l'imparfait tres jolie</p><p lang="fr">passe compose</p><p lang="fr">plus-que-parfait</p><p lang="fr">subjonctif</p>
