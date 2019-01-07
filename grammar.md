@@ -11,8 +11,10 @@
 <a href="https://www.youtube.com/watch?v=7dxSv02szlI">- - - - le subjonctif - - - -</a>
 
 
+</b><br>
+
 <h1 align="center">
-  <b style="color:GREEN;">QUELQUES EXERCIES! </b><br>
+  <b style="color:turquoise;">QUELQUES EXERCIES! </b><br>
 </h1>
 
 
