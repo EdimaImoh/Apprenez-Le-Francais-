@@ -25,7 +25,20 @@
   <tr><td>Mon sport favori est sans aucun doute (...)</td><td>My favourite sport is undoubtedly (...)</td></tr>
   <tr><td>deux fois par semaine</td><td>two times a week</td></tr>
   <tr><td>de temps en temps</td><td>from time to time</td></tr>
- 
+  
+  <h3 align="left">
+  <b style="color:red;">SOCIAL MEDIA:</b><br>
+</h3>
+<table>
+  <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
+  <tr><td>l'athlétisme</td><td>athletics</td></tr>
+  <tr><td>le badminton</td><td>badminton</td></tr>
+  <tr><td>la gymnastique</td><td>gymnastics</td></tr>
+  <tr><td>le ping-pong</td><td>ping-pong</td></tr>
+  <tr><td>le judo</td><td>judo</td></tr>
+  <tr><td>le hockey</td><td>hockey</td></tr>
+  <tr><td>la natation</td><td>swimming</td></tr>
+  <tr><td>le basket</td><td>basketball</td></tr>
 
 
 <h3 align="left">
