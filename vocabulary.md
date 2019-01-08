@@ -31,7 +31,7 @@
 </h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
-  <tr><td>l'athlétisme</td><td>athletics</td></tr>
+  <tr><td>l'THIS IS SOCIAL MEDIA</td><td>athletics</td></tr>
   <tr><td>le badminton</td><td>badminton</td></tr>
   <tr><td>la gymnastique</td><td>gymnastics</td></tr>
   <tr><td>le ping-pong</td><td>ping-pong</td></tr>
@@ -39,7 +39,9 @@
   <tr><td>le hockey</td><td>hockey</td></tr>
   <tr><td>la natation</td><td>swimming</td></tr>
   <tr><td>le basket</td><td>basketball</td></tr>
-
+  <h3 align="left">
+  <b style="color:red;">SOCIAL MEDIA:</b><br>
+</h3>
 
 <h3 align="left">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
