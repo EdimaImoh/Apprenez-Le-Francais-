@@ -26,8 +26,7 @@
   <tr><td>deux fois par semaine</td><td>two times a week</td></tr>
   <tr><td>de temps en temps</td><td>from time to time</td></tr>
   
-  <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-  
+
 
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
