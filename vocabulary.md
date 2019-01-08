@@ -46,6 +46,27 @@
 <h3 align="left">
   <b style="color:red;">RÉSEAUX SOCIAUX:</b><br>
 </h3>
+  
+<table>
+  <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
+  <tr><td>faire une croisière en mer</td><td>to go on a cruise</td></tr>
+  <tr><td>faire des excursions</td><td>to go on outings</td></tr>
+  <tr><td>se bronzer</td><td>to tan</td></tr>
+  <tr><td>faire du tourisme</td><td>to go sightseeing</td></tr>
+  <tr><td>voir des endroits nouveaux</td><td>to see new places</td></tr>
+  <tr><td>le bord de la mer</td><td>seaside</td></tr>
+  <tr><td>la campagne</td><td>countryside</td></tr>
+  <tr><td>à l'èntranger</td><td>abroad</td></tr>
+  <tr><td>la montagne</td><td>mountain</td></tr>
+  <tr><td>la plage</td><td>the beach</td></tr>
+  <tr><td>le pays</td><td>country</td></tr>
+  <tr><td>la piscine</td><td>swimming pool</td></tr>
+  <tr><td>(sur) la côte</td><td>(on) the coast</td></tr>
+  <tr><td>un séjour</td><td>a stay, visit</td></tr>
+  <tr><td>J'y suis allée plusieurs fois</td><td>I have been there several times</td></tr>
+<h3 align="left">
+  <b style="color:red;">LES VACANCES:</b><br>
+</h3>
 
 
 <table>
