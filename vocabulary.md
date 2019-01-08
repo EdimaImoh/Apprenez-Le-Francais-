@@ -123,5 +123,3 @@
   <b style="color:red;">PHRASES UTILES:</b><br>
 </h3>
 
-
-<P> NB: tout le vocabulaire a été extrait de quizlet! </p>
