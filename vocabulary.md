@@ -4,7 +4,7 @@
 
 
 <h3 align="left">
-  <b style="color:red;">;LE SPORT:</b><br>
+  <b style="color:red;">LE SPORT:</b><br>
 </h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
