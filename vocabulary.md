@@ -23,9 +23,7 @@
 
 
 
-<h3 align="center">
-  <b style="color:red;">PHRASES TO REMEMBER:</b><br>
-</h3>
+
  <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
