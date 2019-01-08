@@ -31,7 +31,6 @@
 <h3 align="left">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
-<h3 style="colour:red;">PHRASES TO REMEMBER</h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
@@ -54,5 +53,8 @@
   <tr><td>souligner la gravité de la situation</td><td>to underline the seriousness of the situation</td></tr>
   <tr><td>tenant pour acquis que</td><td>taking it for granted that</td></tr>
   <tr><td>vu que</td><td>considering that</td></tr>
+  <h3 align="left">
+  <b style="color:red;">PHRASES TO REMEMBER:</b><br>
+</h3>
 
 
