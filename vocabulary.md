@@ -2,6 +2,23 @@
   <b style="color:red;">KEY VOCABULARY:</b><br>
 </h1>
 
+<h3> SPORT</h3>
+<table>
+  <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
+  <tr><td>l'athlétisme</td><td>athletics</td></tr>
+  <tr><td>le badminton</td><td>badminton</td></tr>
+  <tr><td>la gymnastique</td><td>gymnastics</td></tr>
+  <tr><td>le ping-pong</td><td>ping-pong</td></tr>
+  <tr><td>le judo</td><td>judo</td></tr>
+  <tr><td>le hockey</td><td>hockey</td></tr>
+  <tr><td>la natation</td><td>swimming</td></tr>
+  <tr><td>le basket</td><td>basketball</td></tr>
+  <tr><td>le roller</td><td>roller skating</td></tr>
+  <tr><td>le tennis</td><td>tennis</td></tr>
+  <tr><td>le foot</td><td>football</td></tr>
+  <tr><td>le cyclisme</td><td>cycling</td></tr>
+  <tr><th>PHRASES UTILES</th></tr>
+
 <h3 align="center">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
