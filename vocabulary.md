@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-  <b style="color:red;">PHRASES TO REMEMBER:</b><br>
+  <b style="color:red;">SPORT:</b><br>
 </h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
