@@ -2,7 +2,8 @@
   <b style="color:red;">KEY VOCABULARY:</b><br>
 </h1>
 
-<h3> SPORT</h3>
+<h3> SPORT
+</h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>l'athlétisme</td><td>athletics</td></tr>
