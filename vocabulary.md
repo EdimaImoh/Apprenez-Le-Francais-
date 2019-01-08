@@ -2,7 +2,8 @@
   <b style="color:red;">KEY VOCABULARY:</b><br>
 </h1>
 
-<h3> SPORT
+<h3 align="left">
+  <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
