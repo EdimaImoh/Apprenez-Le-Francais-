@@ -26,9 +26,7 @@
   <tr><td>deux fois par semaine</td><td>two times a week</td></tr>
   <tr><td>de temps en temps</td><td>from time to time</td></tr>
   
-  <h3 align="left">
-  <b style="color:red;">SOCIAL MEDIA:</b><br>
-</h3>
+
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>l'THIS IS SOCIAL MEDIA</td><td>athletics</td></tr>
