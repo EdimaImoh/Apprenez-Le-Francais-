@@ -17,7 +17,7 @@
   <tr><td>le tennis</td><td>tennis</td></tr>
   <tr><td>le foot</td><td>football</td></tr>
   <tr><td>le cyclisme</td><td>cycling</td></tr>
-  <tr><th>PHRASES UTILES</th></tr>
+ 
 
 <h3 align="center">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
