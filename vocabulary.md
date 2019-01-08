@@ -28,7 +28,7 @@
  
 
 
-<h3 align="center">
+<h3 align="left">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
 <table>
