@@ -92,7 +92,7 @@
   <tr><td>les transports en commun</td><td>public transport</td></tr>
   <tr><td>la circulation</td><td>traffic/td></tr>
 <h3 align="left">
-  <b style="color:red;">ENVIRONNMENT:</b><br>
+  <b style="color:red;">L'ENVIRONNMENT:</b><br>
 </h3>
   
   
