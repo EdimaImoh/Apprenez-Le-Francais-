@@ -20,11 +20,17 @@
   <tr><td>le tennis</td><td>tennis</td></tr>
   <tr><td>le foot</td><td>football</td></tr>
   <tr><td>le cyclisme</td><td>cycling</td></tr>
+  <tr><td>Je suis loin d'être sportive</td><td>I am far from sporty</td></tr>
+  <tr><td>Ce que j'aime le mieux, c'est (...) à l'école</td><td>What I like most is (...) at school</td></tr>
+  <tr><td>Mon sport favori est sans aucun doute (...)</td><td>My favourite sport is undoubtedly (...)</td></tr>
+  <tr><td>deux fois par semaine</td><td>two times a week</td></tr>
+  <tr><td>de temps en temps</td><td>from time to time</td></tr>
+ 
 
 
-<h2 align="center">
+<h3 align="center">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
-</h2>
+</h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
