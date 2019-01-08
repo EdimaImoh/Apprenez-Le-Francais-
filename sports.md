@@ -3,5 +3,4 @@
 </h1>
 
 
- <img class="imgleft" src="file:///Users/edimaimoh/Desktop/Screenshot%202019-01-08%20at%2022.15.57.png" alt="
-=Pretty Place Chapel" >
+https://user-images.githubusercontent.com/43811585/50863258-0287ff00-1396-11e9-8c5c-d01369ec2d97.png
