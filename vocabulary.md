@@ -124,4 +124,4 @@
 </h3>
 
 
-<P> NB: tout le vocaublry a été extrait de quizlet! </p>
+<P> NB: tout le vocabulaire a été extrait de quizlet! </p>
