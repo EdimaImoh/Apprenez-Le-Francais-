@@ -4,7 +4,7 @@
 
 
 <h3 align="left">
-  <b style="color:red;">SPORT:</b><br>
+  <b style="color:red;">;LE SPORT:</b><br>
 </h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
@@ -29,16 +29,22 @@
 
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
-  <tr><td>l'THIS IS SOCIAL MEDIA</td><td>athletics</td></tr>
-  <tr><td>le badminton</td><td>badminton</td></tr>
-  <tr><td>la gymnastique</td><td>gymnastics</td></tr>
-  <tr><td>le ping-pong</td><td>ping-pong</td></tr>
-  <tr><td>le judo</td><td>judo</td></tr>
-  <tr><td>le hockey</td><td>hockey</td></tr>
-  <tr><td>la natation</td><td>swimming</td></tr>
-  <tr><td>le basket</td><td>basketball</td></tr>
+  <tr><td>un réseau social</td><td>a social network</td></tr>
+  <tr><td>Je suis accro à internet</td><td>I am addicted to the internet</td></tr>
+  <tr><td>tenir au courant</td><td>keep up with</td></tr>
+  <tr><td>être joignable</td><td>to be reachable</td></tr>
+  <tr><td>grâce à les réseaux sociaux</td><td>thanks to social media</td></tr>
+  <tr><td>faire des amis</td><td>to make friends</td></tr>
+  <tr><td>partager mes photos</td><td>to share my photos</td></tr>
+  <tr><td>Il y a un risque de devenir accro</td><td>there is a risk of becoming addicted</td></tr>
+  <tr><td>le monde réel/virtuel</td><td>the real/virtual world</td></tr>
+  <tr><td>les bienfaits</td><td>the benefits</td></tr>
+  <tr><td>les dangers</td><td>the dangers</td></tr>
+  <tr><td>la cyber intimidation</td><td>cyber-bullying</td></tr>
+  <tr><td>garder le contact avec les amis et la famille</td><td>keep in touch with friends and family</td></tr>
+  <tr><td>télécharger</td><td>to download</td></tr>
 <h3 align="left">
-  <b style="color:red;">SOCIAL MEDIA:</b><br>
+  <b style="color:red;">RÉSEAUX SOCIAUX:</b><br>
 </h3>
 
 
@@ -65,7 +71,7 @@
   <tr><td>tenant pour acquis que</td><td>taking it for granted that</td></tr>
   <tr><td>vu que</td><td>considering that</td></tr>
   <h3 align="left">
-  <b style="color:red;">PHRASES TO REMEMBER:</b><br>
+  <b style="color:red;">PHRASES UTILES:</b><br>
 </h3>
 
 
