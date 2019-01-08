@@ -31,6 +31,7 @@
 <h3 align="left">
   <b style="color:red;">PHRASES TO REMEMBER:</b><br>
 </h3>
+<h3 style="colour:red;">PHRASES TO REMEMBER</h3>
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
