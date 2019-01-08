@@ -72,6 +72,33 @@
 
 <table>
   <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
+  <tr><td>les déchets industriels/domestiques</td><td>industrial/household waste</td></tr>
+  <tr><td>les émissions de gaz carbonique</td><td>carbon gaz emissions</td></tr>
+  <tr><td>le gaz à effet de serre</td><td>greenhouse gas</td></tr>
+  <tr><td>le réchauffement de la planète</td><td>global warming</td></tr>
+  <tr><td>l'ouragan</td><td>hurricane</td></tr>
+  <tr><td>l'indonation</td><td>flood</td></tr>
+  <tr><td>le carburant alternatif</td><td>alternative fuel</td></tr>
+  <tr><td>les sacs en plastique</td><td>plastic bags</td></tr>
+  <tr><td>gaspiller</td><td>to waste</td></tr>
+  <tr><td>éteindre les lumières</td><td>turn off the lights</td></tr>
+  <tr><td>les emballages</td><td>packaging</td></tr>
+  <tr><td>bouleverser</td><td>to upset</td></tr>
+  <tr><td>se changement climatique</td><td>climate change</td></tr>
+  <tr><td>changer les mentalités des gens</td><td>change people's thinking</td></tr>
+  <tr><td>sauvegarder</td><td>to protect</td></tr>
+  <tr><td>réduire</td><td>to reduce</td></tr>
+  <tr><td>résoudre le problème</td><td>to sole the problem</td></tr>
+  <tr><td>les transports en commun</td><td>public transport</td></tr>
+  <tr><td>la circulation</td><td>traffic/td></tr>
+<h3 align="left">
+  <b style="color:red;">ENVIRONNMENT:</b><br>
+</h3>
+  
+  
+
+<table>
+  <tr><th>FRANÇAISE</th><th>ANGLAISE</th></tr>
   <tr><td>à en juger par</td><td>judging by</td></tr>
   <tr><td>cerner le problème essentiel</td><td>to define the main problem</td></tr>
   <tr><td>des conséquences d'une grande portée</td><td>far-reaching consequences</td></tr>
