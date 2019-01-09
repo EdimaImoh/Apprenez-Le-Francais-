@@ -90,7 +90,7 @@
   <tr><td>réduire</td><td>to reduce</td></tr>
   <tr><td>résoudre le problème</td><td>to sole the problem</td></tr>
   <tr><td>les transports en commun</td><td>public transport</td></tr>
-  <tr><td>la circulation</td><td>traffic/td></tr>
+  <tr><td>la circulation</td><td>traffic</td></tr>
 <h3 align="left">
   <b style="color:red;">L'ENVIRONNMENT:</b><br>
 </h3>
