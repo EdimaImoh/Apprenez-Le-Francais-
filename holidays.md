@@ -9,7 +9,7 @@
 
 
 <h3 align="left">
-  <b style="color:dark green;">Écoutez Damien et complétez les blancs.</b><br>
+  <b style="color:dark green;">Écoutez à Damien et complétez les blancs.</b><br>
 </h3>
 <audio controls>
 <source src="https://ielanguages.com/listen/vacances.mp3" type="audio/mpeg"> 
