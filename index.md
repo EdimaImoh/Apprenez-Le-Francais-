@@ -28,8 +28,6 @@
   <dd>learn more about social media, including the dangers and advantages.</dd>
   <dt>HOLIDAYS</dt>
   <dd>review the different types of holidays and things that you can do whilst on holiday.</dd>
-  <dt>ENVIRONMENT</dt>
-  <dd>learn the dangers of not protecting the environment and ways to reduce our waste.</dd>
 </dl>
 
 
