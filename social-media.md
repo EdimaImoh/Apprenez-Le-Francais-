@@ -10,11 +10,13 @@
 <img style="width:30%; border:1px solid red;" src="https://i.pinimg.com/originals/59/41/88/594188c902f8a3c227e5deb41fe8512e.jpg" alt="Image of Blue Lagoon"> </a>
 
 
-<h2> Voici un article </h2>
+<h3 align="left">
+  <b style="color:dark green;">Voici un article.</b><br>
+</h3>
 <a href="http://bantuhub.com/avantages-et-inconvenients-internet-chez-jeunes/">RÉSEAUX SOCIAUX: DANGERS ET AVANTAGES</a>
 
 <h3 align="left">
-  <b style="color:dark green;">Écoutez cette conversation et replissez les blancs.</b><br>
+  <b style="color:dark green;">Écoutez cette conversation et remplissez les blancs.</b><br>
 </h3>
 <audio controls>
 <source src="http://telechargement.rfi.fr/savoirs/apprendre/societe/medias/pe_reseauxsociaux2.mp3" type="audio/mpeg"> 
