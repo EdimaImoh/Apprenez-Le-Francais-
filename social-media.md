@@ -12,3 +12,6 @@
 
 <h2> Voici un article </h2>
 <a href="http://bantuhub.com/avantages-et-inconvenients-internet-chez-jeunes/">RÉSEAUX SOCIAUX: DANGERS ET AVANTAGES</a>
+
+
+http://telechargement.rfi.fr/savoirs/apprendre/societe/medias/pe_reseauxsociaux2.mp3
