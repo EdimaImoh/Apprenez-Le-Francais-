@@ -14,9 +14,10 @@
 <a href="http://bantuhub.com/avantages-et-inconvenients-internet-chez-jeunes/">RÉSEAUX SOCIAUX: DANGERS ET AVANTAGES</a>
 
 <h3 align="left">
-  <b style="color:dark green;">Écoutez une dépendance aux réseaux sociaux ? et replissez les blancs.</b><br>
+  <b style="color:dark green;">Écoutez cette conversation et replissez les blancs.</b><br>
 </h3>
 <audio controls>
 <source src="http://telechargement.rfi.fr/savoirs/apprendre/societe/medias/pe_reseauxsociaux2.mp3" type="audio/mpeg"> 
 <br />Your browser does not support the audio element.<br />
 </audio>
+
