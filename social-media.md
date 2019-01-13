@@ -14,6 +14,7 @@
   <b style="color:dark green;">Voici un article.</b><br>
 </h3>
 <a href="http://bantuhub.com/avantages-et-inconvenients-internet-chez-jeunes/">RÉSEAUX SOCIAUX: DANGERS ET AVANTAGES</a>
+<p> Cette article va expliquer les bienfaits et les dangers de l'utilisation des réseaux sociaux. Il faut le lire pour comprendre et réfléchir à la question de savoir si les réseaux sociaux peuvent être considérés comme un ami ou un ennemi</p>
 
 <h3 align="left">
   <b style="color:dark green;">Écoutez cette conversation et remplissez les blancs.</b><br>
