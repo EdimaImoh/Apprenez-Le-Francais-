@@ -7,7 +7,7 @@
   <b style="color:red;">LE RÉSEAU SOCIAL: AMI OU ENNEMI?:</b><br>
 </h3>
 <a href="https://i.pinimg.com/originals/59/41/88/594188c902f8a3c227e5deb41fe8512e.jpg" title="View Image Source">
-<img align="center;" border:1px solid red;" src="https://i.pinimg.com/originals/59/41/88/594188c902f8a3c227e5deb41fe8512e.jpg" alt="Image of Blue Lagoon"> </a>
+<img align="center;" border:1px solid red;" src="https://i.pinimg.com/originals/59/41/88/594188c902f8a3c227e5deb41fe8512e.jpg" alt="Thinking Face"> </a>
 
 
 <h3 align="left">
