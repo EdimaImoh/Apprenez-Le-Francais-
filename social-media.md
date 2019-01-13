@@ -25,4 +25,3 @@
 
 <iframe src="https://h5p.org/h5p/embed/405280" width="1090" height="1044" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/VbrEsOLu75c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
