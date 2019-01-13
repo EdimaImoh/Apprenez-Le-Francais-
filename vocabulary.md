@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b style="color:red;">KEY VOCABULARY:</b><br>
+  <b style="color:red;">VOCABULAIRE CLÉ:</b><br>
 </h1>
 
 
