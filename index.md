@@ -1,4 +1,4 @@
-## ALMÉLIOREZ VOS RÉSULTATS
+## AMÉLIOREZ VOS RÉSULTATS
 <h2 style="color:black;"> Apprenez Le Français est un site conçu pour les étudiants qui ont besoin de mieux comprendre le français</h2> 
 
 
