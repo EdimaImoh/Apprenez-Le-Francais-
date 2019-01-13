@@ -1,5 +1,5 @@
-## Learning tools to improve your results!
-<p style="color:black;"> LEARN FRENCH TODAY is a website designed for students doing their A-levels who need to better their understanding of French</P> 
+## ALMÉLIOREZ VOS RÉSULTATS
+<h2 style="color:black;"> Apprenez Le Français est un site conçu pour les étudiants qui ont besoin de mieux comprendre le français</h2> 
 
 
 
@@ -9,7 +9,7 @@
 <h1 align="center">
   <b style="color:grey;">GETTING STARTED</b><br>
 </h1>
-<dl>
+<dl style="colour:black;">
   <dt>GRAMMAR</dt>
   <dd> this page allows you to practice advanced grammar. </dd>
   <dt>TRANSLATION</dt>
