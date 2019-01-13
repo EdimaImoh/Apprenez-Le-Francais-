@@ -1,11 +1,11 @@
 <h1 align="center">
-  <b style="color:dark blue;">GRAMMAIRE</b><br>
+  <b style="color:blue;">GRAMMAIRE</b><br>
 </h1>
 
 <h2 align="center">
   <b style="color:black;">BRUSH UP ON:<br>
     
-<p style="colour:dark blue> L'IMPARFAIT </p>
+<p> L'IMPARFAIT </p>
 <iframe width="828" height="621" src="https://www.youtube.com/embed/U5KXfaeJJ_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> LE PLUS-QUE-PARFAIT </p>
