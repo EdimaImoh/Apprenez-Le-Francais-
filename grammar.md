@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <b style="color:black;">BRUSH UP ON:</b><br>
+  <b style="color:black;">BRUSH UP ON:<br>
 </h2>
 <a href="https://www.youtube.com/watch?time_continue=2&v=U5KXfaeJJ_4">- - - - l'imparfait - - - -</a>
 <a href="https://www.youtube.com/watch?time_continue=25&v=fyXWwTE9raU">- - - - le plus-que-parfait - - - </a>
