@@ -1,16 +1,11 @@
 <h1 align="center">
-  <b style="color:turquoise;">THIS PAGE IS ALL ABOUT IMPROVING YOUR GRAMMAR</b><br>
+  <b style="color:dark blue;">GRAMMAIRE</b><br>
 </h1>
 
 <h2 align="center">
   <b style="color:black;">BRUSH UP ON:<br>
-</h2>
-<a href="https://www.youtube.com/watch?time_continue=2&v=U5KXfaeJJ_4">- - - - l'imparfait - - - -</a>
-<a href="https://www.youtube.com/watch?time_continue=25&v=fyXWwTE9raU">- - - - le plus-que-parfait - - - </a>
-<a href="https://www.youtube.com/watch?v=mVAdruB1xu4">- - - - le passe compose - - - -</a>
-<a href="https://www.youtube.com/watch?v=7dxSv02szlI">- - - - le subjonctif - - - -</a>
-
-<p> L'IMPARFAIT </p>
+    
+<p style="colour:dark blue> L'IMPARFAIT </p>
 <iframe width="828" height="621" src="https://www.youtube.com/embed/U5KXfaeJJ_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> LE PLUS-QUE-PARFAIT </p>
@@ -19,7 +14,7 @@
 <p> LE PASSÉ COMPOSÉ </p>
 <iframe width="828" height="621" src="https://www.youtube.com/embed/mVAdruB1xu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p> LE SUBJOCTIF </p>
+<p> LE SUBJONCTIF </p>
 <iframe width="966" height="543" src="https://www.youtube.com/embed/7dxSv02szlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
