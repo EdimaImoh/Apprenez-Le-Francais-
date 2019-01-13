@@ -10,6 +10,18 @@
 <a href="https://www.youtube.com/watch?v=mVAdruB1xu4">- - - - le passe compose - - - -</a>
 <a href="https://www.youtube.com/watch?v=7dxSv02szlI">- - - - le subjonctif - - - -</a>
 
+<p> L'IMPARFAIT </p>
+<iframe width="828" height="621" src="https://www.youtube.com/embed/U5KXfaeJJ_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> LE PLUS-QUE-PARFAIT </p>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/fyXWwTE9raU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> LE PASSÉ COMPOSÉ </p>
+<iframe width="828" height="621" src="https://www.youtube.com/embed/mVAdruB1xu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p> LE SUBJOCTIF </p>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/7dxSv02szlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </b><br>
 
