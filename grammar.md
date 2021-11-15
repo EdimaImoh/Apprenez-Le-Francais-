@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b style="color:turquoise;">GRAMMAIRE</b><br>
+  <b style="color:turquoise;">GRAMMAIRE francaise</b><br>
 </h1>
 
 <h2 align="center">
